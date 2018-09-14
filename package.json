@@ -1,0 +1,28 @@
+{
+  "name": "week-14-burger",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anum-shabbir/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Anum",
+  "license": "MIT",
+  "homepage": "https://github.com/anum-shabbir/burger/#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.7",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {}
+}
